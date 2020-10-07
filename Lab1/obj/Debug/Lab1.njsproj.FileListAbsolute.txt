@@ -1,0 +1,3 @@
+D:\Projects\InterpretedLabs\Lab1\obj\Debug\Lab1.njsprojAssemblyReference.cache
+D:\Projects\InterpretedLabs\Lab1\obj\Debug\Lab1.njsproj.CoreCompileInputs.cache
+D:\Projects\InterpretedLabs\Lab1\bin\Microsoft.NodejsTools.WebRole.dll
