@@ -1,5 +1,5 @@
-const angleInRadians = 3;                               //угол в радианах
+const angleInRadians = 3;                               //СѓРіРѕР» РІ СЂР°РґРёР°РЅР°С…
 
-const angleInDegrees = angleInRadians * 180 / Math.PI;; //перевод угла из радиан в градусы
+const angleInDegrees = angleInRadians * 180 / Math.PI;; //РїРµСЂРµРІРѕРґ СѓРіР»Р° РёР· СЂР°РґРёР°РЅ РІ РіСЂР°РґСѓСЃС‹
 
-console.log(`Angle in degrees: ${angleInDegrees}`);                            //вывод числа в градусах
+console.log(`Angle in degrees: ${angleInDegrees}`);                            //РІС‹РІРѕРґ С‡РёСЃР»Р° РІ РіСЂР°РґСѓСЃР°С…
