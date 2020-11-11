@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')();
 
-const a = parseInt(prompt("Enter your number: "));
+const a = parseFloat(prompt("Enter your number: "));
 
 let x;
 let prevX;
@@ -20,6 +20,7 @@ do {
     prevX = x;
     x = prevX * 4 / 5 + a / (5 * Math.pow(prevX, 4));
 } while (Math.abs(x - prevX) > 0.0001);
+
 
 console.log(x);
 
