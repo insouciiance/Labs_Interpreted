@@ -1,0 +1,2 @@
+C:\Users\nikkv\source\repos\Labs\InterpretedLabs\Lab7\obj\Debug\Lab7.njsproj.CoreCompileInputs.cache
+C:\Users\nikkv\source\repos\Labs\InterpretedLabs\Lab7\bin\Microsoft.NodejsTools.WebRole.dll
