@@ -7,8 +7,8 @@ console.log(containsPalindromes(array));
 function containsPalindromes(arr) {
     let contains = false;
 
-    for (const i of arr) {
-        if (isPalindrome(i)) {
+    for (let i = 0; i < arr.length; i++) {
+        if (isPalindrome(arr[i])) {
             contains = true;
         }
     }
@@ -17,8 +17,8 @@ function containsPalindromes(arr) {
 
     function isPalindrome(n) {
         let isPalindrome = true;
-        const digitsCount = Math.floor(Math.log(10, n)) + 1;
-
+        const digitsCount = Math.floor(Math.log10(n)) + 1;
+        
         for (let i = 0; i < digitsCount / 2; i++) {
             const firstDigitToCompare = Math.floor(n / Math.pow(10, digitsCount - i - 1)) % 10;
             const secondDigitToCompare = Math.floor(n / Math.pow(10, i)) % 10;
