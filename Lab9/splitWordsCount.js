@@ -1,6 +1,9 @@
 function splitWordsCount(input) {
-    const splitArray = input.split(";");
-    return splitArray.slice(1, splitArray.length - 1).filter(s => s.trim()).length;
+    const splitInput = input.split(";");
+    const separateStrings = splitInput.slice(1, splitInput.length - 1);
+    const wordsCount = separateStrings.filter(s => s.trim() !== "").length;
+
+    return wordsCount;
 }
 
 module.exports = splitWordsCount;
