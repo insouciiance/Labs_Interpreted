@@ -3,3 +3,4 @@ D:\Projects\InterpretedLabs\Lab6\bin\Microsoft.NodejsTools.WebRole.dll
 C:\Users\nikkv\source\repos\Labs\InterpretedLabs\Lab6\obj\Debug\Lab6.njsprojAssemblyReference.cache
 C:\Users\nikkv\source\repos\Labs\InterpretedLabs\Lab6\obj\Debug\Lab6.njsproj.CoreCompileInputs.cache
 C:\Users\nikkv\source\repos\Labs\InterpretedLabs\Lab6\bin\Microsoft.NodejsTools.WebRole.dll
+D:\Projects\InterpretedLabs\Lab6\obj\Debug\Lab6.njsprojAssemblyReference.cache
